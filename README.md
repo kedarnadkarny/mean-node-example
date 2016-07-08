@@ -1,7 +1,7 @@
 # mean-node-example
 Sample MEAN stack example with CRUD operations
 
-INSTRUCTIONS TO LOAD THIS MINI PROJECT
+INSTRUCTIONS TO LOAD THIS MINI PROJECT<br />
 1. Install NODEJS FROM https://nodejs.org/
 2. Install MongoDb from http://mongodb.com/
 3. Go to Git Bash and enter mongod to start mongod server
