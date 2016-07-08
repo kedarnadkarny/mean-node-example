@@ -1,0 +1,11 @@
+{
+  "name": "mean-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-jwt": "^3.4.0",
+    "jsonwebtoken": "^7.0.1",
+    "mongoose": "^4.4.20"
+  }
+}
